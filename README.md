@@ -30,6 +30,7 @@
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="50"> </span> &nbsp;
+  <span> <img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" width="50"> </span> &nbsp;
 </div>
 
 <hr>
