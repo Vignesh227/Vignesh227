@@ -37,8 +37,8 @@
 
  <div align="center">
     <h3> 🏆 Github Stats 🏆 </h3>
-    <span> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh227&theme=dark&background=000000" width="350"> </span>
-    <span> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh227&layout=compact&theme=vision-friendly-dark" width="250"> &nbsp; </span>
+    <span> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh227&theme=dark&background=000000" width="450"> </span>
+    <span> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh227&layout=compact&theme=vision-friendly-dark" width="350"> &nbsp; </span>
 </div>
 
 
