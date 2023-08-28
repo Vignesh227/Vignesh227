@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" alt="gif" width="250">
+  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" alt="gif" width="200">
   <h2>Hi there 👋</h2> 
   <h3> I'm Vignesh Pandian, </h3> 
 
