@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" alt="gif" width="250">
+<div align="center" >
+  <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" alt="gif" width="250">
   <br>
   <h2>Hi there 👋</h2> 
   <h3> I'm Vignesh Pandian, </h3>
@@ -27,8 +27,18 @@
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"> </span> &nbsp;
   <span> <img src="https://repository-images.githubusercontent.com/596892/cc2c69ec-9251-4b33-8283-b86a8659c9cb" width="50" color="red"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50"> </span> &nbsp;
+  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50"> </span> &nbsp;
+  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="50"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="50"> </span> &nbsp;
 </div>
+<hr>
+<div align="center">
+  <h3>📈 Github Stats 📈</h3> <br>
+  <span> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh227&theme=dark&background=000000" width="500"> &nbsp; </span>
+  <span> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh227&layout=compact&theme=vision-friendly-dark" width="500"> &nbsp; </span>
+
+</div>
+
 
 
 
