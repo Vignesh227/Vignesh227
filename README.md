@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" alt="gif" width="350">
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" alt="gif" width="250">
   <br>
-  <h3>Hi there 👋</h3> 
-  I'm Vignesh Pandian,
+  <h2>Hi there 👋</h2> 
+  <h3> I'm Vignesh Pandian, </h3>
   <hr>
   <h3>✨ About Me ✨</h3>
 </div>
@@ -19,15 +19,15 @@
 <hr>
 
 <div align="center">
-  <h3> 🖥️ Languages and Tools 🖥️</h3> 
-  <span> <img src="" width="70"> </span>
-  <span> <img src="" width="70"> </span>
-  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="70"> </span>
-  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="70"> </span>
-  <span> <img src="" width="70"> </span>
-  <span> <img src="" width="70"> </span>
-  <span> <img src="" width="70"> </span>
-  <span> <img src="" width="70"> </span>
+  <h3> 🖥️ Languages and Tools 🖥️</h3> <br>
+  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50"> </span> &nbsp;
+  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"> </span> &nbsp;
+  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50"> </span> &nbsp;
+  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50"> </span> &nbsp;
+  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"> </span> &nbsp;
+  <span> <img src="https://repository-images.githubusercontent.com/596892/cc2c69ec-9251-4b33-8283-b86a8659c9cb" width="50" color="red"> </span> &nbsp;
+  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50"> </span> &nbsp;
+  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="50"> </span> &nbsp;
 </div>
 
 
