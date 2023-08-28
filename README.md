@@ -1,15 +1,9 @@
 <div align="center" >
   <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" alt="gif" width="250">
   <hr>
-  <br>
   <h2>Hi there 👋</h2> 
   <h3> I'm Vignesh Pandian, </h3> 
 
-  <br> 
-  <div align="center">
-    <span> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh227&theme=dark&background=000000" width="557"> </span>
-    <span> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh227&layout=compact&theme=vision-friendly-dark" width="400"> &nbsp; </span>
-  </div>
   <hr>
   <h3>✨ About Me ✨</h3>
 </div>
@@ -41,6 +35,11 @@
 
 <hr>
 
+ <div align="center">
+    <h3> 🏆 Github Stats 🏆 </h3>
+    <span> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vignesh227&theme=dark&background=000000" width="350"> </span>
+    <span> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vignesh227&layout=compact&theme=vision-friendly-dark" width="250"> &nbsp; </span>
+</div>
 
 
 
