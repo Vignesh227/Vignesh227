@@ -21,8 +21,8 @@
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="50"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="50"> </span> &nbsp;
-  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50"> </span> &nbsp;
-  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"> </span> &nbsp;
+  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="50"> </span> &nbsp; <!--
+  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"> </span> &nbsp; -->
   <span> <img src="https://repository-images.githubusercontent.com/596892/cc2c69ec-9251-4b33-8283-b86a8659c9cb" width="50" color="red"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50"> </span> &nbsp;
