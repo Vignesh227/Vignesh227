@@ -14,7 +14,7 @@
 - 👯 I’m looking to collaborate on Data Science / Front End Dev Projects
 - 📫 Follow me :  &nbsp;  <a href="https://www.linkedin.com/in/vigneshpandian-/">  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 
-<hr>
+<hr> 
 
 <div align="center">
   <h3> 🧑‍💻 Languages and Tools 🧑‍💻</h3> <br>
