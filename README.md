@@ -1,11 +1,10 @@
 <div align="center" >
   <img src="https://media.giphy.com/media/Vf3ZKdillTMOOaOho0/giphy.gif" alt="gif" width="200">
-  <h2>Hi there 👋</h2> 
-  <h3> I'm Vignesh Pandian, </h3> 
-
-  <hr>
-  <h3>✨ About Me ✨</h3>
+  
 </div>
+  <h1>Hi there, I'm Vignesh Pandian 👋</h1> 
+ 
+  <h3>✨ About Me ✨</h3>
 
 👋 I'm a passionate Data Science student and a Python programmer who interprets and analyzes data to uncover insights and drive informed decisions.
 
