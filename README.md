@@ -11,7 +11,7 @@
 💻 Additionally, I have a flair for front-end development, which enables me to create user-friendly and responsive interfaces.
 
 - 👯 I’m looking to collaborate on Data Science / Front End Dev Projects
-- 📫 Follow me :  &nbsp;  <a href="https://www.linkedin.com/in/vigneshpandian-/">  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
+- 📫 Follow me :  &nbsp;  <a href="https://www.linkedin.com/in/vigneshpandian-/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 
 <hr> 
 
