@@ -3,7 +3,7 @@
   
 
   <h2>Hi there, I'm Vignesh Pandian 👋</h2> 
-</div> 
+</div>  
   <h3>✨ About Me ✨</h3>
 
 👋 I'm a passionate Data Science student and a Python programmer who interprets and analyzes data to uncover insights and drive informed decisions.
