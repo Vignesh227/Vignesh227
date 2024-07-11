@@ -16,7 +16,7 @@
 <hr> 
 
 <div align="center">
-  <h3> 🧑‍💻 Languages and Tools 🧑‍💻</h3> <br>
+  <h3> 💻 Languages and Tools 🛠️ </h3> <br>
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="46"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="46"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="46"> </span> &nbsp;
