@@ -12,22 +12,27 @@
 
 - 👯 I’m looking to collaborate on Data Science / Front End Dev Projects
 - 📫 Follow me :  &nbsp;  <a href="https://www.linkedin.com/in/vigneshpandian-/" target="_blank">  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
+  
 
 <hr> 
 
 <div align="center">
   <h3> 💻 Languages and Tools 🛠️ </h3> <br>
+  <!--
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="46"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="46"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" width="46"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" width="46"> </span> &nbsp; <!--
-  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"> </span> &nbsp; -->
+  <span> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"> </span> &nbsp; --> <!--
   <span> <img src="https://repository-images.githubusercontent.com/596892/cc2c69ec-9251-4b33-8283-b86a8659c9cb" width="46" color="red"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="46"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="46"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="46"> </span> &nbsp;
   <span> <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" width="46"> </span> &nbsp;
-  <span> <img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" width="46"> </span> &nbsp;
+  <span> <img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" width="46"> </span> &nbsp; -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,html,css,flask,mysql,vscode,pr" />
+  </a>
 </div>
 
 <hr>
